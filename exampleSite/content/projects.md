@@ -36,7 +36,7 @@ Abstract: This paper studies how elite purges affect local officials’ repressi
 
 * Political Economy of Crime
 
-* RCT 
+* Responsiveness
 
 * Incompliance with Autocrats: Enforcement and Punishment during COVID in China
 

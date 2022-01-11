@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Zhenxuan Wang
+title: Gary Ziwen Zu
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. Candidate
+role: Ph.D. student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Duke University
+- name: University of California, San Diego
   url: https://www.duke.edu/
 
 # Short bio (displayed in user profile at end of posts)

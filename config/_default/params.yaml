@@ -20,19 +20,19 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: zhenxuan.wang@duke.edu
+email: zzu@ucsd.edu
 # phone: 888 888 88 88
 address:
-  street: 9 Circuit Drive
-  city: Durham
-  region: NC
-  postcode: '27705'
+  street: 9500 Gilman Dr
+  city: La Jolla
+  region: CA
+  postcode: '92093'
   country: United States
   country_code: US
 coordinates:
-  latitude: '36.0032'
-  longitude: '-78.9437'
-directions: Enter Grainger Hall and take the stairs to the 4th floor
+  latitude: 
+  longitude:
+directions:
 office_hours:
   - 'Wednesday 09:00 to 11:00'
 # appointment_url: 'https://calendly.com'
@@ -40,7 +40,7 @@ contact_links:
   - icon: twitter
     icon_pack: fab
     name: DM Me
-    link: 'https://twitter.com/zhenxuan_wang'
+    link: 'https://twitter.com/zu_gary'
   # - icon: skype
   #   icon_pack: fab
   #   name: Skype Me

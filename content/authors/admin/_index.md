@@ -74,14 +74,10 @@ email: ""
 highlight_name: false
 ---
 
-I am a PhD Candidate in Environmental Economics and a [James B. Duke Fellow](https://gradschool.duke.edu/about/news/history-spotlight-james-b-duke-fellowship) at Duke University. I am also an [Energy Fellow](https://energy.duke.edu/about/energy-fellows) and an [Energy Data Analytics Fellow](https://energy.duke.edu/energy-data-analytics-phd-student-fellows) at the Duke University [Energy Initiative](https://energy.duke.edu/). 
+Ziwen Zu is a PhD student in Political Science at University of California, San Diego. He received a Bachelor of Management in pubic administration from Sun Yat-Sen University in 2018. During 2018-2020, He conducted research and completed graduate coursework at Duke University, where he obtained a Master of Arts in political science. He is currently a research associate at 21 Century China Center at UCSD.
 
-I am interested in environmental and energy economics, climate policy, industrial organization, and applied econometrics. My research topics cover air pollution, climate change, innovation and development, and environmental regulation. My recent research focuses on:
-* Information, risk perception, and household behavior
-* Climate change impact and human capital adaptation
-* Welfare impact of smart technology adoption in the electricity sector
-* Energy efficiency, electrification, and policy design for net-zero emission target
+Ziwen Zu's research tries to understand the formal and informal political institutions in nondemocracies, with a particular focus on China. He is interested in how do political institutions (e.g., judicial system, bureaucracy, political cycles) affect political elites and the general social welfare. During his spare time, He enjoy movies, literature, sci-fiction novels and learning history from archeology.
 
-Prior to Duke, I worked as a research associate at the [Environmental Research Center](https://dukekunshan.edu.cn/en/environment/about-research) of [Duke Kunshan University](https://dukekunshan.edu.cn/). I received my BA in Economics and BSc in Mathematics from [Wuhan University](https://www.whu.edu.cn/).
+
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->

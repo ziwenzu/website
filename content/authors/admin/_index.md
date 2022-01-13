@@ -11,7 +11,7 @@ role: Ph.D. student
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: University of California, San Diego
-  url: https://www.duke.edu/
+  url: https://ucsd.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests lie at the intersection of authoritarian politics, public policy and redistributive politics.
@@ -81,3 +81,4 @@ Ziwen Zu's research tries to understand the formal and informal political instit
 
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
+

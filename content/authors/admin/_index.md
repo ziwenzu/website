@@ -14,27 +14,27 @@ organizations:
   url: https://www.duke.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests lie at the intersection of environmental and energy economics, climate policy, and industrial organization.
+bio: My research interests lie at the intersection of authoritarian politics, public policy and redistributive politics.
 
 # Interests to show in About widget
 interests:
-- Environmental Economics
-- Energy Economics
-- Climate Policy
-- Industrial Organization
+- Authoritarian Politics
+- Distributive Politics
+- Public Policy
+- Causal Inference
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Environmental Policy
+  - course: PhD in Political Science
+    institution: University of California, San Diego
+    year: 2025 (Expected)
+  - course: MA in Political Science
     institution: Duke University
-    year: 2023 (Expected)
-  - course: BA in Economics
-    institution: Wuhan University
-    year: 2017
-  - course: BSc in Mathematics
-    institution: Wuhan University
-    year: 2017
+    year: 2020
+  - course: BAc in Public Administration
+    institution: Sun Yat-Sen University
+    year: 2018
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -43,22 +43,22 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:zhenxuan.wang@duke.edu
+  link: mailto:zzu@ucsd.edu
 - icon: cv
   icon_pack: ai
-  link: 'https://www.dropbox.com/s/e8n0l83yknn60bt/CV.pdf'
+  link: 'https://www.dropbox.com/s/v376a03psuigcsc/cv-zu.pdf'
 - icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack; graduation-cap
   icon_pack: ai
-  link: https://scholar.google.com/citations?hl=en&user=Fm57_2cAAAAJ
+  link: https://scholar.google.com.hk/citations?user=XpVWmF8AAAAJ&hl
 - icon: github
   icon_pack: fab
-  link: https://github.com/whuxuan
+  link: https://github.com/ziwenzu
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/zhenxuan_wang
+  link: https://twitter.com/zu_gary
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/zhenxuan-wang-econ
+  link: https://www.linkedin.com/in/ziwen-zu-59a964104/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 

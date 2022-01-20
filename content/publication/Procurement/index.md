@@ -1,18 +1,12 @@
 ---
-title: "Smart Meters, Infrastructure Improvements, and Institutional Innovations: Evidence from Pakistan and Kyrgyzstan on COVID and Power System Resilience"
+title: "Turnovers and Public Spending"
 publication_types:
   - "4"
 authors:
-  - Robyn Meeks
-  - Husnain Ahmad
-  - Ayesha Ali
-  - Victoria Plutshack
   - admin
-  - Javed Younas
-  
   
 # publication: '*Under Review*'
-date: 2021-01-01
+date: 2022-01-20
 
 draft: false
 featured: false

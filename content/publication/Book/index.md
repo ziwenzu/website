@@ -3,10 +3,8 @@ title: "Heat Adaptation and Human Performance in a Warming Climate"
 publication_types:
   - "2"
 authors:
-  - Steven Sexton
   - admin
-  - Jamie T. Mullins
-publication: '*Journal of the Association of Environmental and Resource Economists*'
+publication: '* Economists*'
 date: 2021-05-18
 
 draft: false
@@ -19,12 +17,7 @@ abstract: Labor productivity, human capital formation, and income growth decline
 #   focal_point: ""
 #   preview_only: false
 
-tags:
-  - Adaptation 
-  - Climate Change 
-  - Human Performance
 
-doi: 10.1086/715509
 links:
 - name: Abstract
   url: 'publication/heat-adaptation/'

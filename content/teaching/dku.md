@@ -9,12 +9,12 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: 'UCSD'
+title: 'Duke Kunshan University'
 subtitle: ''
 
 content:
   # Page type to display. E.g. post, talk, publication...
-  page_type: courses-ucsd
+  page_type: courses-dku
   # Choose how much pages you would like to display (0 = all pages)
   count: 0
   # Choose how many pages you would like to offset by

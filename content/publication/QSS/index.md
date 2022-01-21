@@ -1,11 +1,11 @@
 ---
-title: "量化社会科学导论 (Translation of QuantitiveSocial Science by Kosuke Imai)"
+title: "量化社会科学导论"
 publication_types:
   - "7"
 authors:
   - Yiqing Xu 
   - admin
-publication: '**'
+publication: '*Translation of QuantitiveSocial Science by Kosuke Imai*'
 date: 2020-05-18
 
 draft: false

@@ -7,7 +7,7 @@ authors:
   - Zhenzhen Zheng
   - Ming Ma 
   - admin
-publication: '*Book*'
+publication: '**'
 date: 2017-05-18
 
 draft: false

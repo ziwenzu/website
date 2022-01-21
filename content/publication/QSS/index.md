@@ -5,7 +5,7 @@ publication_types:
 authors:
   - Yiqing Xu 
   - admin
-publication: '*Translation of QuantitiveSocial Science by Kosuke Imai*'
+publication: '**'
 date: 2020-05-18
 
 draft: false

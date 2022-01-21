@@ -5,6 +5,7 @@ publication_types:
 authors:
   - Yiqing Xu 
   - admin
+publication: '**'
 date: 2020-05-18
 
 draft: false

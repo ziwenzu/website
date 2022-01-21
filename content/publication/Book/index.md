@@ -1,8 +1,11 @@
 ---
-title: "E-Government and Information Technology Management: Concepts and Best Practices"
+title: "E-Government and Information Technology Management: Concepts and Best Practices (Chapter 5)"
 publication_types:
   - "2"
 authors:
+  - Zheng Yueping
+  - Zhenzhen Zheng
+  - Ming Ma 
   - admin
 publication: '*Book*'
 date: 2021-05-18
@@ -19,8 +22,8 @@ featured: false
 
 
 links:
-- name: Abstract
-  url: 'publication/Book/'
+- name: Amazon
+  url: 'https://www.amazon.com/Government-Information-Technology-Management-Practices-ebook/dp/B07JZL1CX9'
 
 ---
 

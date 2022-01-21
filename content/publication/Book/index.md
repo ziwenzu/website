@@ -7,7 +7,7 @@ authors:
   - Zhenzhen Zheng
   - Ming Ma 
   - admin
-publication: '**'
+publication: '*test*'
 date: 2017-05-18
 
 draft: false
@@ -27,4 +27,3 @@ links:
 
 ---
 
-<!-- ![screen reader text](Nonlinear.jpg "caption") -->

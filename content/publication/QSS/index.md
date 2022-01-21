@@ -16,7 +16,7 @@ featured: false
 # image:
 #   filename: featured
 #   focal_point: ""
-#   preview_only: false
+#   preview_only: true
 
 
 links:

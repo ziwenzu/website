@@ -115,7 +115,7 @@ url = "posts/"
 
 [[languages.en.menu.main]]
 name = "Resource"
-weight = 5
+weight = 6
 url = "resource/"
 
 [languages.pt-br]

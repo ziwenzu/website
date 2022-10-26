@@ -113,6 +113,11 @@ name = "Blog"
 weight = 5
 url = "posts/"
 
+[[languages.en.menu.main]]
+name = "Resource"
+weight = 6
+url = "resource/"
+
 [languages.pt-br]
 languageName = "中文"
 title = "祖梓文"

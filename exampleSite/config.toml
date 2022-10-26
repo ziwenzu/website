@@ -105,30 +105,6 @@ url = "teaching/"
 
 
 
-[languages.pt-br]
-languageName = "中文"
-title = "祖梓文"
 
-[languages.pt-br.params]
-author = "祖梓文"
-info = "加州大学圣地亚哥分校政治学博士"
-description = ""
-keywords = ""
-footerContent = ""
-
-[[languages.pt-br.menu.main]]
-name = "简介"
-weight = 1
-url = "about/"
-
-[[languages.pt-br.menu.main]]
-name = "研究"
-weight = 2
-url = "projects/"
-
-[[languages.pt-br.menu.main]]
-name = "教学"
-weight = 3
-url = "teaching/"
 
 

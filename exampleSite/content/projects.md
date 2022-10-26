@@ -28,7 +28,9 @@ Abstract: This paper studies how elite purges affect local officials’ repressi
 
 
 
-##### How Does Turnover Distort Resource Allocation? Evidence from China’s Public Procurement?
+
+
+##### How Does Turnover Distort Resource Allocation? Evidence from China’s Public Procurement [Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4258545)
 
 Scholarship has generally treated leadership turnover in authoritarian regimes as a meritocratic bureaucracy that deters favoritism. This study advances an alternative view that emphasizes the adverse effects of turnover. I argue that political turnover generates political uncertainty and career incentives for politicians to allocate public spending to familiar firms, producing what I call turnover-based favoritism. The claim is based on how mayoral turnovers affect procurement allocation in China. Using an original public procurement data set spanning 2013 to 2020, I show that mayors increase purchases from firms located in the cities where they were previously in government. These findings highlight the importance of political turnover in public goods distribution and government business relations.
 
@@ -36,9 +38,12 @@ Scholarship has generally treated leadership turnover in authoritarian regimes a
 
 # Working in Progress
 
-* AI and enforcement
-* Strategic judicial transparency
+* Political Economy of Crime
 
-* Boosting civil liberty in China
+* Judicial Legitimacy
+
+* Incompliance with Autocrats: Enforcement 
+
+* Boosting Civil Liberty in China
 
   

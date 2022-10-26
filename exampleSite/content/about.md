@@ -13,6 +13,16 @@ Ziwen Zu's research tries to understand the formal and informal political instit
 
 
 
+#### Contact
+
+Email: zzu@ucsd.edu 
+
+Office 342 Social Science Building
+
+La Jolla, CA 92093 
+
+
+
 Ziwen's CV can be found [here](https://www.dropbox.com/home/tex%20template/new%20cv%20style?preview=cv-zu.pdf).  You can follow his google scholar [here](https://scholar.google.com.hk/citations?user=XpVWmF8AAAAJ&hl=zh-CN&oi=ao)
 
 

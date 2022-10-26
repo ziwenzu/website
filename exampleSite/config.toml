@@ -103,20 +103,7 @@ name = "Teaching"
 weight = 3
 url = "teaching/"
 
-[[languages.en.menu.main]]
-name = "Contacts"
-weight = 4
-url = "contact/"
 
-[[languages.en.menu.main]]
-name = "Blog"
-weight = 5
-url = "posts/"
-
-[[languages.en.menu.main]]
-name = "Resource"
-weight = 6
-url = "resource/"
 
 [languages.pt-br]
 languageName = "中文"
@@ -144,7 +131,4 @@ name = "教学"
 weight = 3
 url = "teaching/"
 
-[[languages.pt-br.menu.main]]
-name = "联系与合作"
-weight = 4
-url = "contact/"
+

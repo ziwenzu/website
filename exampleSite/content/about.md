@@ -1,15 +1,18 @@
 ---
 slug: About
-title: "About"
+title: ""
 ---
 
 Hello!  
 
 
 
-Ziwen Zu is a PhD student in Political Science at University of California, San Diego. He received a Bachelor of Management in pubic administration from Sun Yat-Sen University in 2018. During 2018-2020, He conducted research and completed graduate coursework at Duke University, where he obtained a Master of Arts in political science. He is currently a research associate at 21 Century China Center at UCSD.
+Ziwen Zu is a PhD student in Political Science at University of California, San Diego. He received a Bachelor of Management in pubic administration from Sun Yat-Sen University in 2018. During 2018-2020, He conducted research and obtained a Master of Arts in political science at Duke University. He is currently a research associate at 21 Century China Center at UCSD.
 
-Ziwen Zu's research tries to understand the formal and informal political institutions in nondemocracies, with a particular focus on China. He is interested in how do political institutions (e.g., judicial system, bureaucracy, political cycles) affect political elites and the general social welfare. 
+Ziwen Zu's research agenda includes
+
+* Judicial politics, Law and society, Chinese politics, Distributive politics, E-government 
+* Network analysis, Text-as-data, Causal inference. 
 
 
 

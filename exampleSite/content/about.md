@@ -12,7 +12,7 @@ Ziwen Zu is a PhD student in Political Science at University of California, San 
 Ziwen Zu's research agenda includes
 
 * Judicial politics, Law and society, Chinese politics, Distributive politics, E-government, Public opinion 
-* Network analysis, Text-as-data, Causal inference. 
+* Network Analysis, Text-as-Data, Causal Inference, Formal Models. 
 
 
 

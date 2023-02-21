@@ -27,12 +27,8 @@ title: ""
 
 # Working in Progress
 
-* Political Economy of Crime
+* Fear and Anger: Digital Surveillance and Regime Stability in China
 
-* Judicial Legitimacy
-
-* Incompliance with Autocrats: Enforcement 
-
-* Boosting Civil Liberty in China
+* Costs of Communism: Political Violence and Legal Noncompliance in China
 
   

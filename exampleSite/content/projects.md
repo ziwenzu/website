@@ -27,8 +27,12 @@ title: ""
 
 # Working in Progress
 
-* Fear and Anger: Digital Surveillance and Regime Stability in China
+* Surveillance
 
-* Costs of Communism: Political Violence and Legal Noncompliance in China
+* Discredited Poeple
+
+* Cycles of penalty
+
+* Anti-crime outcomes
 
   

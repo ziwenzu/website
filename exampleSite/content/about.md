@@ -5,7 +5,7 @@ title: ""
 
 
 
-Welcome to my personal website! Currently I am a PhD candidate in Political Science at the University of California, San Diego, and a research associate at the 21st Century China Center at UCSD.  My CV can be found [here](https://www.dropbox.com/home/tex%20template/new%20cv%20style?preview=cv-zu.pdf).  You can follow my google scholar [here](https://scholar.google.com.hk/citations?user=XpVWmF8AAAAJ&hl=zh-CN&oi=ao). On my website, you can find an overview of my research and teaching experiences, as well as my professional background.  Feel free to take a look around and don't hesitate to contact me with any questions.
+Welcome to my personal website! Currently I am a PhD candidate in Political Science at the University of California, San Diego, and a research associate at the 21st Century China Center at UCSD.  My CV can be found [here](https://www.dropbox.com/s/v376a03psuigcsc/cv-zu.pdf?dl=0).  You can follow my google scholar [here](https://scholar.google.com.hk/citations?user=XpVWmF8AAAAJ&hl=zh-CN&oi=ao). On my website, you can find an overview of my research and teaching experiences, as well as my professional background.  Feel free to take a look around and don't hesitate to contact me with any questions.
 
 
 

@@ -23,12 +23,7 @@ title: ""
 
 
 
-```html
-<details>
-<summary>Summary text.</summary>
-<code style="white-space:nowrap;">Hello World, how is it going?</code>
-</details>
-```
+<details>   <summary>Toggle Title</summary>      - Item 1   - Item 2   - Item 3 </details>
 
 
 

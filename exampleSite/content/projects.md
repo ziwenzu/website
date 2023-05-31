@@ -18,8 +18,17 @@ title: ""
 # Working Papers
 
 * How Much Should We Trust Instrumental Variable Estimates in Political Science? Practical Advice based on Over 60 Replicated Studies (with Yiqing Xu, Mackenzie Lockhart, Apoorva Lal) [Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3905329)
-
 * How Does Turnover Distort Resource Allocation? Evidence from China’s Public Procurement [Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4259352)
+* People Have Sharp Eyes:  Civilian Participation in China's Digital Surveillance
+
+
+
+```html
+<details>
+<summary>Summary text.</summary>
+<code style="white-space:nowrap;">Hello World, how is it going?</code>
+</details>
+```
 
 
 

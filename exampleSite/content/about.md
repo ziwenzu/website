@@ -12,7 +12,7 @@ Welcome to my personal website! Currently I am a PhD candidate in Political Scie
 I specialize in comparative politics with a regional focus on China and quantitative methods such as causal inference, text/video-as-data, and network analysis. My research interests include political economy, public opinion, and state-society relations. My current research agenda investigates two questions:
 
 * How does the civil society affect authoritarian rule in China?
-* How do coercive apparatruses (i.e. police, courts) exert social control and sustain legitimacy?
+* How do coercive apparatruses (i.e. police, courts) exert social control while sustain regime legitimacy?
 
 
 

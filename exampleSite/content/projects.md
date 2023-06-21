@@ -17,20 +17,17 @@ title: ""
 
 # Working Papers
 
-* How Much Should We Trust Instrumental Variable Estimates in Political Science? Practical Advice based on Over 60 Replicated Studies (with Yiqing Xu, Mackenzie Lockhart, Apoorva Lal) [Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3905329) (*Revise & Resumbit*)
+## Political Economy
 
 * How Does Turnover Distort Resource Allocation? Evidence from China’s Public Procurement [Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4259352)
 
-  
+## Repression 
 
-# Working in Progress
+* Big Brother's Eye: How does Civic Participation Influence Digital Surveillance in Autocracy
+* Political Cycles of Administrative Penalty
+* Softer or Harder: Consequence of Digitalization of Authoritarian Rule
 
-* Surveillance
+## Methods
 
-* Discredited Poeple
+* How Much Should We Trust Instrumental Variable Estimates in Political Science? Practical Advice based on Over 60 Replicated Studies (with Yiqing Xu, Mackenzie Lockhart, Apoorva Lal) [Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3905329) (*Revise & Resumbit* at PA)  
 
-* Cycles of penalty
-
-* Anti-crime outcomes
-
-  

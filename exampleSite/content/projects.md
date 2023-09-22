@@ -13,21 +13,27 @@ title: ""
 
   
 
-
-
 # Working Papers
 
-## Political Economy
+## State-Business Relations
 
 * How Does Turnover Distort Resource Allocation? Evidence from China’s Public Procurement [Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4259352)
+* Fiscal Origins of Predatory Hands on Business in Autocracy (with Shengqiao Lin)
 
-## Repression 
+## State-Citizen Relations 
 
-* Big Brother's Eye: How does Civic Participation Influence Digital Surveillance in Autocracy
-* Political Cycles of Administrative Penalty
-* Softer or Harder: Consequence of Digitalization of Authoritarian Rule
+* People Have Sharp Eyes: How does Civic Participation Influence Digital Surveillance in Autocracy (draft available upon request)
+* How does Transparency Technology Affect Enforcement in China
+* Economic Slowdowns and Unrest in China (with Shukang Xiao)
+
+## State-Elite Relations
+
+* Outsourcing Justice: Lawyering and Judicial Bias in China (JMP)
+* Elite-Mass Gaps and Support of Autocracy
+* Measuring Social Origins of Judicial Bias: A Field Experiment
 
 ## Methods
 
 * How Much Should We Trust Instrumental Variable Estimates in Political Science? Practical Advice based on Over 60 Replicated Studies (with Yiqing Xu, Mackenzie Lockhart, Apoorva Lal) [Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3905329) (*Revise & Resumbit* at PA)  
+* Using Texts to Measure Latent Confonders
 

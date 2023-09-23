@@ -18,19 +18,16 @@ title: ""
 ## State-Business Relations
 
 * How Does Turnover Distort Resource Allocation? Evidence from China’s Public Procurement [Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4259352)
-* Fiscal Origins of Predatory Hands on Business in Autocracy (with Shengqiao Lin)
+
+  
 
 ## State-Citizen Relations 
 
 * People Have Sharp Eyes: How does Civic Participation Influence Digital Surveillance in Autocracy (draft available upon request)
-* How does Transparency Technology Affect Enforcement in China
-* Economic Slowdowns and Unrest in China (with Shukang Xiao)
 
 ## State-Elite Relations
 
-* Outsourcing Justice: Lawyering and Judicial Bias in China (JMP)
-* Elite-Mass Gaps and Support of Autocracy
-* Measuring Social Origins of Judicial Bias: A Field Experiment
+* Outsourcing Justice: Lawyering and Judicial Bias in China 
 
 ## Methods
 

@@ -20,11 +20,9 @@ title: ""
 * How Does Turnover Distort Resource Allocation? Evidence from China’s Public Procurement [Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4259352)
 
 
-* People Have Sharp Eyes: How does Civic Participation Influence Digital Surveillance in Autocracy (draft available upon request)
+* People Have Sharp Eyes: Consequences of Civic Participation in Digital Surveillance
 
 * Outsourcing Justice: Lawyering and Judicial Bias in China 
-
-## Methods
 
 * Using Texts to Measure Latent Confonders
 
